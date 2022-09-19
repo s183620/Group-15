@@ -11,11 +11,8 @@ The script will be used for gathering information regarding the focus area, from
 
 ### Disciplinary expertise and analysis 
 
--What disciplinary (non BIM) expertise did you use to solve the use case?
-
 To achieve the goal, it will be necessary to have knowledge regarding indoor climate in general, the building regulation and the intended use of the building. One would also need knowledge regarding the different buildingmaterials and it's functions which might impact the indoor environment. For instance the windowglass and it's transmission.
 
-- What disciplinary analysis does it require?
 In this project we will try to break down the analysis into four steps. 
 
 Step 1:
@@ -31,18 +28,23 @@ Calculation of the three types of heat transfer and the heat loss.
 Step 4:
 Checking results towards requirements. Are any changes or optimization nescessary?
 
-- What building elements are you interested in?
+### Building elements and IFC concepts
 
 For checking the indoor climate, it will be necessary to analyze the walls and it's openings, spaces, floors and roof. Also the site and orientation of the building could have an influence on the climate and therefore possibly interesting. 
 
-### IFC concepts
+For gathering information about the elements, the following IFC concepts have been used:
 
+IFC_spaces
 IFC_walls
 (skrives når scriptet er færdigt)
 
-### Other Use cases
-- What (use cases) need to be done before you can start your use case?
-- What is the input data for your use case?
-- What other use cases are waiting for your use case to complete?
+### Connection with other use cases
 
+The architectural use case needs to be done, because the overview of spaces and elements needs to be done. This is possibly also in this case that the materials will be chosen, which also impact the calculations in this case. 
+
+The structural use case also needs to be almost done, to get an overview of elements that could clash with ventilation etc. 
+
+The fire use case, LCA use case and the overall architectural ifc model will all be waiting for this use case to be done, since they all could be influenced by the nescessary changes in the indoor climate model. 
+
+Other use cases such as the cost case are waiting for the overall model to be done, which includes this use case. 
 
