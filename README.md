@@ -15,15 +15,25 @@ The script will be used for gathering information regarding the focus area, from
 
 To achieve the goal, it will be necessary to have knowledge regarding indoor climate in general, the building regulation and the intended use of the building. One would also need knowledge regarding the different buildingmaterials and it's functions which might impact the indoor environment. For instance the windowglass and it's transmission.
 
-What disciplinary analysis does it require?
+- What disciplinary analysis does it require?
+In this project we will try to break down the analysis into four steps. 
 
-- Analyze the different components of the building
-- How they are constructed and it's properties 
-It will be nescessary to know how to calculate the three types of heat transfer and the heat loss.
+Step 1:
+Analyze the different components of the building, how they are constructed and it's properties.
 
+Step 2:
+Analyze the purpose of the building. What does it need?
+Determine the requirements. 
+
+Step 3:
+Calculation of the three types of heat transfer and the heat loss.
+
+Step 4:
+Checking results towards requirements. Are any changes or optimization nescessary?
 
 - What building elements are you interested in?
-For checking the indoor climate, it will be necessary to analyze the walls and it's openings, spaces, floors and roof.
+
+For checking the indoor climate, it will be necessary to analyze the walls and it's openings, spaces, floors and roof. Also the site and orientation of the building could have an influence on the climate and therefore possibly interesting. 
 
 ### IFC concepts
 
