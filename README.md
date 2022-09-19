@@ -1,5 +1,5 @@
 # A1 Open Bim
-## Group 5
+## Group 15
 
 ### Use case, script and IFC
 The focus area is indoor climate analysis. This is primarily for MEP engineers, but also relevant for XXX.
