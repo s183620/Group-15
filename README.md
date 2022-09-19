@@ -13,11 +13,13 @@ The script will be used for gathering information regarding the focus area, from
 
 -What disciplinary (non BIM) expertise did you use to solve the use case?
 
-To achieve the goal, it will be necessary to have knowledge regarding indoor climate in general, the building regulation and the intended use of the building. Knowledge regarding the different buildingmaterials and it's functions which might impact the indoor environment. For instance the windowglass and it's transmission.
+To achieve the goal, it will be necessary to have knowledge regarding indoor climate in general, the building regulation and the intended use of the building. One would also need knowledge regarding the different buildingmaterials and it's functions which might impact the indoor environment. For instance the windowglass and it's transmission.
 
--What disciplinary analysis does it require?
+What disciplinary analysis does it require?
 
-Further more it will be a must to know how to calculate the three types of heat transfer and the heat loss.
+- Analyze the different components of the building
+- How they are constructed and it's properties 
+It will be nescessary to know how to calculate the three types of heat transfer and the heat loss.
 
 
 - What building elements are you interested in?
