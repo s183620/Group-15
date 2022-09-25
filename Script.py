@@ -1,41 +1,22 @@
-Python 3.10.7 (v3.10.7:6cc6b13308, Sep  5 2022, 14:02:52) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
->>> windows = ifc.by_type('IfcWindow')
-... print('Number of windows:', len(windows))
-SyntaxError: multiple statements found while compiling a single statement
->>> reset
-Traceback (most recent call last):
-  File "<pyshell#1>", line 1, in <module>
-    reset
-NameError: name 'reset' is not defined
->>> clear
-Traceback (most recent call last):
-  File "<pyshell#2>", line 1, in <module>
-    clear
-NameError: name 'clear' is not defined
->>> 
-================================ RESTART: Shell ================================
->>> import ifcopenshell 
-... import bpy
-... import blenderbim.bim
-... import ifcopenshell.util
-... import ifcopenshell.util.element
-...         
-... from blenderbim.bim.ifc import IfcStore
-... ifc = ifcopenshell.open(IfcStore.path)
-... 
-... ######
-... # We use the script to find information about walls, roof, floor, windows and doors.
-... ######
-... 
-... 
-... ####
-... # Walls
-... ####
-... # Finding the walls and the amount    
-... walls = ifc.by_type('IfcWall')
-... print('Number of walls:', len(walls))
-... 
+import ifcopenshell 
+import bpy
+import blenderbim.bim
+import ifcopenshell.util
+import ifcopenshell.util.element
+       
+from blenderbim.bim.ifc import IfcStore
+ifc = ifcopenshell.open(IfcStore.path)
+
+######
+# We use the script to find information about walls, roof, floor, windows and doors.
+######
+
+####
+# Walls
+####
+# Finding the walls and the amount    
+walls = ifc.by_type('IfcWall')
+print('Number of walls:', len(walls)) 
 
 # Finding the the properties for the walls, to find the walls, and properties, that matter for us
 for wall in walls:
@@ -133,18 +114,5 @@ print('Number of doors:', len(doors))
 ####
 # Spaces
 ####
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
