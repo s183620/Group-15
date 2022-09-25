@@ -34,10 +34,13 @@ For checking the indoor climate, it will be necessary to analyze the walls and i
 
 For gathering information about the elements, the following IFC concepts have been used:
 
-- IFC_spaces
-- IFC_walls
-- 
-(skrives når scriptet er færdigt)
+- IFC_space
+- IFC_wall
+- IFC_door
+- IFC_window
+- IFC_roof
+- IFC_floor
+To get around the different elements, we have used the IFC_properties, which is connected to each of them.
 
 ### Connection with other use cases
 
