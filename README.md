@@ -40,7 +40,7 @@ For gathering information about the elements, the following IFC concepts have be
 - IFC_window
 - IFC_roof
 - IFC_floor
-To get around the different elements, we have used the IFC_properties, which is connected to each of them.
+- To get around the different elements, we have used the IFC_properties, which is connected to each of them.
 
 ### Connection with other use cases
 
