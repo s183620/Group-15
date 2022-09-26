@@ -3,7 +3,7 @@
 
 ### Use case, script and IFC
 The focus area is indoor climate analysis. This is primarily for MEP engineers, but also relevant for the client and the architects.
-The main priority is to optimize the building performance in terms of heat loss, radiation, thermal convection and conductivity in the outher construction. 
+The main priority is to optimize the building performance in terms of heat loss, radiation, thermal convection and conductivity in the outer construction. 
 
 The script will be used for gathering information regarding the focus area, from the IFC model. The goal is to find information about walls, windows, doors, floor and roof. Including dimensions, materials and placement of openings in the facade. 
 
