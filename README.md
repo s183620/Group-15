@@ -7,7 +7,7 @@ The main priority is to optimize the building performance in terms of heat loss,
 
 The script will be used for gathering information regarding the focus area, from the IFC model. The goal is to find information about walls, windows, doors, floor and roof. Including dimensions, materials and placement of openings in the facade. 
 
-The script will adress the problem in a way, where it will be used to find the amount, material and size about the external buildingparts. It will also be used to find the total size of the building and to find the placement of the different elements.
+The script will address the problem in a way, where it will be used to find the amount, material and size about the external building parts. It will also be used to find the total size of the building and to find the placement of the different elements.
 
 ### Disciplinary expertise and analysis 
 
