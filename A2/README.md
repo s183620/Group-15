@@ -6,10 +6,10 @@ The use case focus on indoor climate, and especially the heatloss over the out b
 
 The changes we have made, is described in the Changes.md file.
 
-# What information can you get from the IFC for your use case from the previous assignment?
+### What information can you get from the IFC for your use case from the previous assignment?
 
-# What guidance might the 'end user' need?
+### What guidance might the 'end user' need?
 
-# What analysis can you perform to support this guidance based on the info you have available?
+### What analysis can you perform to support this guidance based on the info you have available?
 
 
