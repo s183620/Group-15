@@ -13,14 +13,14 @@ We also benefit from the knowlegde about how different IFC properties are linked
 
 ### What guidance might the 'end user' need?
 
-The end user will need to know 
+The end user will need to know something about the general construction of the building. 
+Since the changes so far are pretty simple, the end user won't need so much guidance at the moment. 
 
 ### What analysis can you perform to support this guidance based on the info you have available?
+
 
 
 ### Changes made directly to the index.html file
 
 
-(vinduer er ikke hooket op på etager men på en væg, så det er lidt mere omfattende at kode sig tilbage til hvilken etage vinduerne høre til og dermed hvor mange vinduer der er pr. etage.)
 
-(Har istedet fundet samlet antal vinduer i bygningen)
