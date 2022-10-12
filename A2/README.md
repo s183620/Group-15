@@ -13,14 +13,16 @@ We also benefit from the knowlegde about how different IFC properties are linked
 
 ### What guidance might the 'end user' need?
 
-The end user will need to know something about the general construction of the building. 
-Since the changes so far are pretty simple, the end user won't need so much guidance at the moment. 
+The end user will need to know something about the general construction and design of the building.
+
+Since the changes so far are pretty simple, the end user won't need so much guidance at the moment. But the end user need to able to extract the information by itself. 
 
 ### What analysis can you perform to support this guidance based on the info you have available?
 
-
+Ensure that the site is still userfriendly, no matter how many function that are being incorporated. 
+This means you have to make the analysis as a part of the script, so the end user only sees the results in the site. 
 
 ### Changes made directly to the index.html file
 
-
+In the index.html file we added a new part to the body called "building". In here we added the number of windows, so it's possible for the js.file to "find" the variable and display it. 
 
