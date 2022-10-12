@@ -13,7 +13,7 @@ The changes we have made, is described in the Changes.md file.
 ### What analysis can you perform to support this guidance based on the info you have available?
 
 
-
+### Changes made directyly to the index.html file
 
 
 (vinduer er ikke hooket op på etager men på en væg, så det er lidt mere omfattende at kode sig tilbage til hvilken etage vinduerne høre til og dermed hvor mange vinduer der er pr. etage.)
