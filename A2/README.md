@@ -26,3 +26,9 @@ This means you have to make the analysis as a part of the script, so the end use
 
 In the index.html file we added a new part to the body called "building". In here we added the number of windows, so it's possible for the js.file to "find" the variable and display it. 
 
+### The chosen license
+
+We've chosen the GNU GPLv3. license, because we want it to be a total open source. Since the focus area is indoor climate, we want to establish a platform that is built upon the standards given by the building regulation, for everybody to use and develop towards their own working procedure. 
+
+
+
