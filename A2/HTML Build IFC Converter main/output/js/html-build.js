@@ -15,7 +15,7 @@ function main() {
 	console.log(num_floors);
 	
 	// add data to the properties box
-	$('props-').prepend('Total number of windows is '+num_floors);
+	$('props-').prepend('Total number of floors is '+num_floors);
 	$('props-').prepend('site elevation is '+$('site-').attr('elev')+'<br>');
 	$('props-').prepend('Total number of windows is '+$('building-').attr('windows')+'<br>');
 	
@@ -39,7 +39,7 @@ function plan(text) {
 jQuery('<div>', {
     id: 'plan',
     class: 'plan',
-    title: 'click to se number of windows',
+    title: 'click to see the height of the floor',
 	html:text
 }).appendTo('plan-');  
 	
