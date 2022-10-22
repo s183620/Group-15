@@ -15,6 +15,10 @@ The tools can be used by a broad group of engineers, but is design for the MEP e
 
 3. Process: model the process diagram from your use case in BPMN.io please remember to save the .bpmn file and you can save a .svg file that you can insert into your report.
 
+![Alt text](Diagram)
+<img src=" img/diagram.svg ">
+
+
 4. description of the process of your tool / workflow.
 
 ## 3C: Information exchange
