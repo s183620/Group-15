@@ -14,7 +14,7 @@ The tools can be used by a broad group of engineers, but is design for the MEP e
 
 3. Process: 
 
-![diagram](https://user-images.githubusercontent.com/112874093/197334057-464f3b44-ef7c-4b0f-9583-37179d856fc4.svg "BPMN diagram")
+![diagram](https://user-images.githubusercontent.com/112874093/197334988-d7d3402f-6952-4147-92b1-557112d083cd.svg "BPMN diagram")
 
 
 4. Description:
