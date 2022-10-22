@@ -55,6 +55,10 @@ The script will be used to gather information needed for indoor climate calculat
 The tool will be made of four steps scripted in python:
 
 Step 1 - Gather information: Analyze the different external components.
+
 Step 2 - Calculations: Heat loss and heat transport.
+
 Step 3 - Building regulation: Is it complied or not?
+
 Step 4 - Optimization: Are any changes or optimization nescessary?
+
