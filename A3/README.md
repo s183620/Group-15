@@ -3,7 +3,13 @@
 ## 3A: Analyse use case
 
 1. Goal: Goal of the tool / workflow in one sentence. i.e. to support the user to calculate the total total cost of the project.
+
+"The goal is to support calculations of indoor climate in terms of heatloss over the external contruction, to insure the building complies the building regulation." 
+
+
 2. Model Use (Bim Uses): Please refer initially to the Mapping BIM uses, use cases and processes section in this document.
+
+The tools can be used by a broad group of engineers, but is design for the MEP engineers specialized in indoor climate. Due to the specific requirements regarding indoor climate in the building regulation, these calculations can have essential meaning for both the overall design and the construction use cases. It should also be considered in relation to other use cases, since it can have a smaller impact upon those. 
 
 ## 3B: Propose a (design for a) tool / workflow
 
@@ -28,6 +34,7 @@ This is the common question when developing tools and processes as an intraprene
 7. Describe the business value (How does it create value for your business / employer)
 
 8. Describe the societal value (How does it make the world better)
+
 N.B. If it doesn't do either of these things (ideally it should do both - don't do it!!)
 
 ## 3E: Delivery
