@@ -48,7 +48,7 @@ overconsumption of materials, but could be implemented in a later version.
 
 9. Description of how your tool / workflow would solve the use case:
 
-The script will be used to gather information needed for indoor climate calculations. This will be amount, material and size of the external building parts. After gathering the information, the script will calculate heat loss and heat transport, and evaluate whether or not the BR18 is complied. 
+The script will be used to gather information needed for indoor climate calculations. This will be amount, material and size of the external building parts. After gathering the information, the tool will have to calculate heat loss and heat transport, and evaluate whether or not the BR18 is complied. 
 
 10. Description of how you would make the tool / workflow - what steps would you go through?
 
