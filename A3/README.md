@@ -25,7 +25,7 @@ So the workflow is divided into three iterated parts. The first part secures tha
 
 5. Information exchange
 
-For the information exchange, see the excell file in the folder.
+For the information exchange, see the excel file in the folder.
 
 6. IFC entities and BR18
 
