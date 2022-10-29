@@ -23,13 +23,15 @@ So the workflow is divided into three iterated parts. The first part secures tha
 
 ## 3C: Information exchange
 
-5. Information Exchange: Fill out the excel template with the information for your planned tool / workflow. For this you will need access to the excel, and the Dikon document to help you specify the LOD (LOR,LOG,LOI) for each element you need for you tool / workflow. This can get confusing - don’t worry we can help 😊
+5. Information exchange
 
-6. IFC: Describe the IFC entities and properties for each of the elements you identified in your information exchange. Describe the data that you need to:
+For the information exchange, see the excell file in the folder.
 
-Find in the IFC
-Find in an external sources i.e. BR18
-Based on assumptions (useful when we don't have the 'real' data that we need for our tool)
+6. IFC entities and BR18
+
+The IFC entities we need for our tool is the following: IFC_walls, IFC_roof, IFC_floor, IFC_windows, IFC_doors, IFC_foundation, IFC_spaces. We also gona need some IFC_properties like; thickness, height, width, material.
+In our tool BR18 is used to determine the requirements for the heat-transport and loss.
+
 
 ## 3D: What is the potential improvement offered by this tool?
 
