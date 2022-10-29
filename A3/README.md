@@ -32,6 +32,8 @@ For the information exchange, see the excel file in the folder.
 The IFC entities we need for our tool is the following: IFC_walls, IFC_roof, IFC_floor, IFC_windows, IFC_doors, IFC_foundation, IFC_spaces. We also gona need some IFC_properties like; thickness, height, width, material.
 In our tool BR18 is used to determine the requirements for the heat-transport and loss.
 
+For the building materials, it will be nescessary to assume an G-value and an U-value to calculations. 
+
 
 ## 3D: What is the potential improvement offered by this tool?
 
