@@ -16,7 +16,13 @@ Business value? Forklar hvordan det kan videreudvikles?
 - Skitse?
 
 
-- Present your solution to your peers and get feedback from them. your presentation should consist of a 2 minute video, that describes your use case and how your solution addresses the use case.
+
+
+
+
+
+
+Present your solution to your peers and get feedback from them. your presentation should consist of a 2 minute video, that describes your use case and how your solution addresses the use case.
 
 
 
