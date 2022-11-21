@@ -33,7 +33,7 @@ Step 4 - Optimization: Are any changes or optimization nescessary?
 
 - Evt billeder fra scripts?
 
-## Business value
+## Business value and further development
 
 The tool gives a quick overview about whether or not the building complies with simple requirements from the building regulation. The tool will be a timesaver, and the employer will quickly be able to determined if the design should be optimized or not.
 
@@ -45,7 +45,7 @@ Another further development could be to load in values from BR or DS directly in
 
 It could also later on be developed for other contries with their building regulation, instead of the danish one. 
 
-## HTML
+## Idea for HTML
 - Evt beskrivelse af hvordan man ville lave HTML?
 - Skitse?
 
