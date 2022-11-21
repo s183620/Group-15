@@ -17,12 +17,10 @@ The tool can be used along the way when you have sketches, measurements, materia
 
 
 
-Our BPMN has changed a bit through the project, bla bla bla (skriv ngoet om at det ikke er allle stadier i BPMN der er opfyldt endnu, men det er sådan toolet skal videreudvikles 
+!Our BPMN has changed a bit through the project, bla bla bla (skriv ngoet om at det ikke er allle stadier i BPMN der er opfyldt endnu, men det er sådan toolet skal videreudvikles 
 
 ![diagram-2](https://user-images.githubusercontent.com/112402480/203063864-79c07321-011d-4aa8-8829-4d201af49ddc.svg)
 
-
-- Evt BPMN
 
 ## Step by step guide for the tool
 
@@ -54,4 +52,4 @@ It could also later on be developed for other contries, where the BR instead of 
 - Evt beskrivelse af hvordan man ville lave HTML?
 - Skitse?
 
-Present your solution to your peers and get feedback from them. your presentation should consist of a 2 minute video, that describes your use case and how your solution addresses the use case.
+!Present your solution to your peers and get feedback from them. your presentation should consist of a 2 minute video, that describes your use case and how your solution addresses the use case.
