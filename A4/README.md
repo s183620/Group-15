@@ -1,7 +1,7 @@
 
 # Final project - Indoor climate 
 
-## Purpose and presentation of the tool
+## Presentation of the tool
 
 The overall purpose of the project, was to create a tool for the MEP engineers, which could support the calculation of indoor climate. 
 
@@ -19,7 +19,7 @@ Our BPMN diagram has changed a bit through the project, but this is the final on
 
 ![diagram-2](https://user-images.githubusercontent.com/112402480/203063864-79c07321-011d-4aa8-8829-4d201af49ddc.svg)
 
-## Step by step guide for the tool
+## Step by step guide
 
 The tool will be made of four steps scripted in python:
 
