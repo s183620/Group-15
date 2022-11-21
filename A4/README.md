@@ -17,10 +17,9 @@ The tool can be used along the way when you have sketches, measurements, materia
 
 
 
-!Our BPMN has changed a bit through the project, bla bla bla (skriv ngoet om at det ikke er allle stadier i BPMN der er opfyldt endnu, men det er sådan toolet skal videreudvikles 
+Our BPMN diagram has changed a bit through the project, but we this is the final one. The process also shows determination of the requirements and a possibly optimization. This is not included in the actual tool we've made, but is suppose to be a part of a further development. 
 
 ![diagram-2](https://user-images.githubusercontent.com/112402480/203063864-79c07321-011d-4aa8-8829-4d201af49ddc.svg)
-
 
 ## Step by step guide for the tool
 
