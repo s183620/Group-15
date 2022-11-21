@@ -15,6 +15,13 @@ We focus on the outer walls as part of the building. The idea is that the tool c
 Due to the specific requirements regarding indoor climate in the building regulation, these calculations can have essential meaning for both the overall design and the construction use cases. It should also be considered in relation to other use cases, since it can have a smaller impact upon those. The tool is a shortcut to an assessment of the building with regard to the climate screen.
 The tool can be used along the way when you have sketches, measurements, materials ready for the various building parts. The purpose is to catch the errors along the way so that it can be adjusted.
 
+
+
+Our BPMN has changed a bit through the project, bla bla bla (skriv ngoet om at det ikke er allle stadier i BPMN der er opfyldt endnu, men det er sådan toolet skal videreudvikles 
+
+
+![diagram_2](https://user-images.githubusercontent.com/112874093/197334988-d7d3402f-6952-4147-92b1-557112d083cd.svg "BPMN diagram")
+
 - Evt BPMN
 
 ## Step by step guide for the tool
