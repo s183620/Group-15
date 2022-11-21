@@ -21,15 +21,10 @@ Our BPMN diagram has changed a bit through the project, but this is the final on
 
 ## Step by step guide
 
-The tool will be made of four steps scripted in python:
-
-Step 1 - Gather information: Analyze the different external components.
-
-Step 2 - 
-
-Step 3 - 
-
-Step 4 - 
+Step 1:
+Step 2:
+Step 3:
+Step 4:
 
 Evt billeder fra scripts?
 
@@ -46,7 +41,7 @@ Another further development could be to load in values from BR or DS directly in
 It could also later on be developed for other contries with their building regulation, instead of the danish one. 
 
 ## Idea for HTML
-- Evt beskrivelse af hvordan man ville lave HTML?
-- Skitse?
 
-!Present your solution to your peers and get feedback from them. your presentation should consist of a 2 minute video, that describes your use case and how your solution addresses the use case.
+We didn't make an actual HTML for this project, but we have an idea for it. A possible solution could be a webpage, where the buildingcomponents from the script are being displayed in 3D. The components should have a colorcode for whether or not they complies with the building regulation. For instance if the walls are green, it means that du u-values complies and no changeas are necessary for this. If the wall is red, the u-value is too low and changes needs to be made. There could also be a colorcode for the buildingcomponent that has an u-value close to the limit, and thus something you need to be aware of. 
+
+- Skitse?
