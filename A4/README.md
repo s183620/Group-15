@@ -21,21 +21,19 @@ Our BPMN diagram has changed a bit through the project, but this is the final on
 
 ## Step by step guide
 
-Step 1:
+Step 1: Place the model in the "model" folder
 
-Step 2:
+Step 2: Check the lambda-values in the json file in the "input" folder, change them if they don't match
 
-Step 3:
+Step 3: Open the "indoor climate" blender file, they script is already included here
 
-Step 4:
+Step 4: Import the IFC-file from the "model" folder
 
-Step 5:
+Step 5: Now you run the script
 
-Step 6:
+Step 6: The calculation of the u-values are now in the excel file "output" in the "output" folder
 
-Step 7:
-
-Evt billeder fra scripts?
+Step 7: Look at the conclusions for the different components, and consider changes if nescessary in the lambda-values
 
 ## Business value and further development
 
