@@ -4,20 +4,16 @@
 ## Purpose and presentation of the tool
 
 The overall purpose of the project, was to create a tool for the MEP engineers, which could support the calculation of indoor climate. 
-The tools is made as a script that calculates the u-value for certain building components, in this case the external walls, but could also be the roof, floor etc. This was to insure that the building complies the building regulation, and is suppose to be an easy way to check this. 
 
-Due to the specific requirements regarding indoor climate in the building regulation, these calculations can have essential meaning for both the overall design and the construction use cases. It should also be considered in relation to other use cases, since it can have a smaller impact upon those.
+The tool is in several parts:
+- Get info from building parts (material, dimensions, etc.)
+- The materials have thermal conductivity values (lambda) which must be used to calculate the u-values for the different components.
+- The u-values are compared with u-values from the building regulations which have requirements for the various building parts.
 
-Tool in several parts:
-Get info from building parts (material, dimensions)
-The materials have thermal conductivity values (lambda) which must be used to calculate the U-values
-The U-values are compared with U-values from the building regulations which have requirements for the various building parts.
+We focus on the outer walls as part of the building. The idea is that the tool can be developed to calculate and compare u-values for all building parts (roof, floor, foundation, inner walls, etc.)
 
-We focus on the outer walls as part of the building.
-The idea is that the tool can be developed to calculate and compare u-values for all building parts (roof, floor, foundation, inner walls, etc.)
-
-The tool is a shortcut to an assessment of the building with regard to the climate screen.
-The tool can be used along the way when you have sketches, measurements, materials ready for the various building parts.The purpose is to catch the errors along the way so that it can be adjusted.
+Due to the specific requirements regarding indoor climate in the building regulation, these calculations can have essential meaning for both the overall design and the construction use cases. It should also be considered in relation to other use cases, since it can have a smaller impact upon those. The tool is a shortcut to an assessment of the building with regard to the climate screen.
+The tool can be used along the way when you have sketches, measurements, materials ready for the various building parts. The purpose is to catch the errors along the way so that it can be adjusted.
 
 - Evt BPMN
 
