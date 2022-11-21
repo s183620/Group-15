@@ -25,13 +25,13 @@ The tool will be made of four steps scripted in python:
 
 Step 1 - Gather information: Analyze the different external components.
 
-Step 2 - Calculations: Heat loss and heat transport.
+Step 2 - 
 
-Step 3 - Building regulation: Is it complied or not?
+Step 3 - 
 
-Step 4 - Optimization: Are any changes or optimization nescessary?
+Step 4 - 
 
-- Evt billeder fra scripts?
+Evt billeder fra scripts?
 
 ## Business value and further development
 
