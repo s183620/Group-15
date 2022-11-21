@@ -42,6 +42,6 @@ It could also later on be developed for other contries with their building regul
 
 ## Idea for HTML
 
-We didn't make an actual HTML for this project, but we have an idea for it. A possible solution could be a webpage, where the buildingcomponents from the script are being displayed in 3D. The components should have a colorcode for whether or not they complies with the building regulation. For instance if the walls are green, it means that du u-values complies and no changeas are necessary for this. If the wall is red, the u-value is too low and changes needs to be made. There could also be a colorcode for the buildingcomponent that has an u-value close to the limit, and thus something you need to be aware of. 
+We didn't make an actual HTML for this project, but we have an idea for it. A possible solution could be a webpage, where the buildingcomponents from the script are being displayed in 3D. The components should have a colorcode for whether or not they complies with the building regulation. For instance if the walls are green, it means that the u-value complies and no changes are necessary for this. If the wall is red, the u-value is too low and changes needs to be made. There could also be a colorcode for the buildingcomponent that has an u-value close to the limit, and thus something you need to be aware of. 
 
 - Skitse?
