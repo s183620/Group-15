@@ -5,7 +5,7 @@
 
 The overall purpose of the project, was to create a tool for the MEP engineers, which could support the calculation of indoor climate. 
 
-The tool is devided in several parts:
+The tool is divided in several parts:
 - Get info from building parts (material, dimensions, etc.)
 - The materials have thermal conductivity values (lambda) which must be used to calculate the u-values for the different components.
 - The u-values are compared with u-values from the building regulations which have requirements for the various building parts.
