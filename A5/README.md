@@ -20,3 +20,40 @@ In this project you will use the peer feedback and the feedback from the compani
 
 * Are you likely to use OpenBIM tools in your thesis
 * Are you likely to use OpenBIM tools in your professsional life in the next 10 years?
+
+
+Feedback from others:
+Good things:
+
+Bussiness value
+Excel output
+Use of ifc concepts
+directly in python without blender
+
+Improvements:
+
+Other components 
+HTML - make it easy to use
+Further development in another program and another country
+Json file? something the user needs to be aware of - might not that good?
+Doesn't take windows into account?
+
+
+Think about the building component, it may be more complex than you think? For instance a wall maybe have a window, lineloss etc. 
+
+For simplificeret gør det urealistik og dermed ubrugbart - tænk over det i processen om man bør sadle om 
+
+
+Indoor etc. next year:
+- Start simple, add details later
+- Coding tutorials/examples
+- Communcate with other groups with similar use cases
+- Code peer review/code sharing
+
+
+
+
+
+
+
+
