@@ -28,4 +28,11 @@ We are open to use OpenBIM tools for some of our future work, because we now are
 
 We are very sure that OpenBIM will be a part of our future worklife
 
+# 4. Answer to your feedback
+
+For a future project, the goal with the script would be to make it in python, so you only have to run a main script, that would refer to the more detailed script.
+Future students, could use some parts of our script, the part about finding the important walls and maybe the calculations, but the part, where we export the result, could probaly be done better. And if it is done better, a more detailed result, could be calculated.
+
+But the basic parts of the script, and the result to some extend could be used, and further developed.
+
 
