@@ -1,15 +1,19 @@
-Finally, you will provide a markdown file documenting the reflections on your work and any future plans to continue the work you have or suggest for others.
 
-In this project you will use the peer feedback and the feedback from the companies to your 2 minute videos and tools to write a breif reflection on 
-* the process of creating the tool
-* the output of the tool. 
 
 
 1. process of developing the tool
-* Did the process of the course enable you to answer or define questions that you might need later for thesis?
-* Would you have preferred to have been given less choice in the use cases?
-* Was the number of tools for the course ok - should we haev more or less? - if so which ones would you leave out?
-* Would you 
+
+
+Through the course we discovered that the use case regarding indoor environment were more complex than expected. This was due to the fact, that the use case could be subdivided. This concluded, that we only got answers to the little part of the indoor environment that we worked with, and therefore still have a lot of questions to the rest of the indoor environment part of bim.
+
+We think it was better to have a lot of choice, since not everybody in the course have the same interest (for instance LCA, structures etc). And we also also think that it was good that we only were limited by the over all use case, and not any further parameters. 
+
+It would have been nice to only focus on for instance integrating the IFC model into python, and not focusing on learning to many new coding languages such as HTML. Maybe include a few more example in the couples of weeks, so everybody gets allined. 
+
+The process gave a huge amount of knowlegde for further work, because we both got to see how complex IFC and BIM are, but also only saw the tip of the iceberg, of what is possible to do, if you are able to crack the code.
+
+It could be nice to include in the thesis some day, since it is a very interesting way to solve future problems, and what BIM can provide to this. 
+
 
 2. output of the tool
 * did the tool address the use case you identified?
