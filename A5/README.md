@@ -1,8 +1,7 @@
 
 
 
-1. process of developing the tool
-
+# 1. process of developing the tool
 
 Through the course we discovered that the use case regarding indoor environment were more complex than expected. This was due to the fact, that the use case could be subdivided. This concluded, that we only got answers to the little part of the indoor environment that we worked with, and therefore still have a lot of questions to the rest of the indoor environment part of bim.
 
@@ -15,49 +14,18 @@ The process gave a huge amount of knowlegde for further work, because we both go
 It could be nice to include in the thesis some day, since it is a very interesting way to solve future problems, and what BIM can provide to this. 
 
 
-2. output of the tool
-* did the tool address the use case you identified?
-* was the use case well modelled
-* was the project clearly scoped
+# 2. output of the tool
 
-3. Future
+The final tool did not adresse the first use case that we made. Because we were way to ambitious at first. But after we had modified the use case, the result we got from the tool and the tool it self, gave us what we wanted.
 
-* Are you likely to use OpenBIM tools in your thesis
-* Are you likely to use OpenBIM tools in your professsional life in the next 10 years?
+The use case were modelled in a very simplyfied way, because we have had to make some assumptions about materials, placement etc. But the simplifyed use case was not very far from the reality, so with very few tweeks, the use case could have been modelled better.  
 
+The scope of the project got better and better though the course. This is also due to the fact that we got more and more aware of what the use case could bring to the project, and what it couldn't.
 
-Feedback from others:
-Good things:
+# 3. Future
 
-Bussiness value
-Excel output
-Use of ifc concepts
-directly in python without blender
+We are open to use OpenBIM tools for some of our future work, because we now are aware of what it can be used for and what it can bring to a project.
 
-Improvements:
-
-Other components 
-HTML - make it easy to use
-Further development in another program and another country
-Json file? something the user needs to be aware of - might not that good?
-Doesn't take windows into account?
-
-
-Think about the building component, it may be more complex than you think? For instance a wall maybe have a window, lineloss etc. 
-
-For simplificeret gør det urealistik og dermed ubrugbart - tænk over det i processen om man bør sadle om 
-
-
-Indoor etc. next year:
-- Start simple, add details later
-- Coding tutorials/examples
-- Communcate with other groups with similar use cases
-- Code peer review/code sharing
-
-
-
-
-
-
+We are very sure that OpenBIM will be a part of our future worklife
 
 
